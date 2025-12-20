@@ -1,0 +1,33 @@
+# .gitignore
+
+# Large data files (don't commit to GitHub)
+training_data.csv
+streaming_data.json
+*.csv
+*.json
+
+# EXCEPT sample data
+!sample_data.csv
+
+# Model files (too large)
+models/
+checkpoints/
+
+# Spark/Scala build artifacts
+target/
+project/target/
+.bsp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
