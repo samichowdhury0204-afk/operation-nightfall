@@ -1,0 +1,1001 @@
+﻿timestamp,unit_id,gps_lat,gps_lng,message_text,priority,message_type
+2024-02-27T00:00:00Z,Bravo-4,53.001959,-1.282268,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:00:07Z,Alpha-5,52.95292,-1.295857,Request water resupply at grid 8166 2873.,MEDIUM,LOGISTICS
+2024-02-27T00:00:08Z,Alpha-5,52.922966,-1.148143,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:00:13Z,Charlie-6,52.854888,-1.126234,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:00:15Z,Falcon-6,53.02543,-1.197855,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:00:18Z,Falcon-5,52.892501,-1.236876,مركبة مجهولة تقترب بسرعة,HIGH,MEDICAL
+2024-02-27T00:00:25Z,Bravo-2,53.025695,-1.185413,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:00:27Z,Charlie-5,52.974577,-1.203464,Ammunition critically low! Down to last magazine. Resupply NOW!,CRITICAL,LOGISTICS
+2024-02-27T00:00:30Z,Bravo-3,52.918166,-1.201054,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:00:32Z,Charlie-3,53.039719,-1.255759,Position check: holding at grid 2954 9129.,MEDIUM,ROUTINE
+2024-02-27T00:00:38Z,Charlie-5,52.955803,-1.204484,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:00:43Z,Eagle-4,52.983511,-1.19892,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:00:44Z,Falcon-6,52.98583,-1.251345,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:00:44Z,Charlie-6,53.003516,-1.156133,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:00:45Z,Charlie-3,52.955286,-1.180915,HUMINT source reports weapons cache at grid 1745 4146.,HIGH,INTEL
+2024-02-27T00:00:46Z,Eagle-3,53.008521,-1.276134,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:00:51Z,Falcon-3,52.976157,-1.238899,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:00:55Z,Alpha-6,53.010172,-1.192913,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:01:01Z,Falcon-1,52.961169,-1.134986,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:01:02Z,Charlie-6,52.943279,-1.240244,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:01:09Z,Charlie-2,52.897644,-1.256183,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:01:09Z,Bravo-4,52.905932,-1.294834,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:01:12Z,Charlie-2,53.000924,-1.232734,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:01:15Z,Eagle-1,52.976738,-1.186437,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:01:15Z,Eagle-6,52.974041,-1.179236,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:01:21Z,Eagle-2,52.910225,-1.223486,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:01:26Z,Charlie-3,52.991315,-1.116493,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:01:27Z,Eagle-2,52.903151,-1.280296,Request water resupply at grid 5153 4779.,MEDIUM,LOGISTICS
+2024-02-27T00:01:37Z,Alpha-3,52.922982,-1.231435,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:01:42Z,Alpha-2,52.892404,-1.15728,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:01:45Z,Charlie-4,52.997246,-1.287956,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:01:51Z,Falcon-2,52.853535,-1.169565,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:01:52Z,Charlie-2,52.973928,-1.199232,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:02:02Z,Falcon-3,52.907491,-1.219286,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:02:05Z,Bravo-4,52.852659,-1.27064,Troops in contact! Grid reference 6971 8698. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:02:06Z,Bravo-6,53.007109,-1.177698,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:02:13Z,Charlie-1,52.887531,-1.160677,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:02:17Z,Eagle-4,52.8889,-1.18076,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:02:18Z,Falcon-6,52.962278,-1.209828,Elevated threat level. All patrols adopt enhanced posture.,HIGH,ROUTINE
+2024-02-27T00:02:21Z,Charlie-4,53.009815,-1.176069,HUMINT source reports weapons cache at grid 7146 2536.,HIGH,INTEL
+2024-02-27T00:02:24Z,Falcon-1,53.038381,-1.165472,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:02:27Z,Charlie-2,52.85666,-1.117951,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:02:29Z,Falcon-3,52.961741,-1.247045,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:02:36Z,Bravo-1,52.925401,-1.201159,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:02:41Z,Eagle-6,52.941619,-1.232,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:02:44Z,Eagle-3,52.998769,-1.209228,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:02:46Z,Falcon-2,52.926253,-1.251475,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:02:47Z,Bravo-1,53.011789,-1.246127,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:02:53Z,Charlie-6,52.964554,-1.24593,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:02:55Z,Charlie-4,52.85889,-1.151733,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:03:01Z,Falcon-2,52.957264,-1.206181,All clear. No activity to report.,LOW,MEDICAL
+2024-02-27T00:03:03Z,Falcon-6,52.857796,-1.213334,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:03:07Z,Bravo-5,52.936033,-1.107768,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:03:10Z,Bravo-3,52.944857,-1.134309,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:03:11Z,Eagle-3,52.918824,-1.212266,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:03:12Z,Eagle-2,53.036025,-1.102177,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:03:13Z,Falcon-3,52.975662,-1.170378,Request water resupply at grid 1211 2308.,MEDIUM,LOGISTICS
+2024-02-27T00:03:14Z,Charlie-5,53.038674,-1.111821,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:03:23Z,Bravo-2,52.854789,-1.206374,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:03:24Z,Falcon-4,52.955771,-1.195666,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:03:25Z,Alpha-4,53.007075,-1.281131,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:03:27Z,Falcon-4,52.997645,-1.130454,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:03:27Z,Eagle-2,52.986217,-1.196379,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:03:35Z,Falcon-5,52.998416,-1.130725,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:03:42Z,Alpha-3,52.951558,-1.265329,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:03:43Z,Bravo-4,53.029936,-1.121946,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:03:44Z,Bravo-2,52.925079,-1.195503,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:03:50Z,Bravo-3,52.909663,-1.188321,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:03:53Z,Bravo-6,53.035425,-1.194725,Request water resupply at grid 1302 4069.,MEDIUM,LOGISTICS
+2024-02-27T00:03:53Z,Charlie-5,52.994258,-1.168094,All clear. No activity to report.,LOW,INTEL
+2024-02-27T00:03:55Z,Falcon-4,53.01507,-1.222919,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:04:04Z,Alpha-2,52.887479,-1.267211,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:04:07Z,Falcon-1,52.963902,-1.229457,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:04:09Z,Eagle-3,52.857453,-1.154862,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:04:17Z,Bravo-6,52.938721,-1.279929,Mail delivery received.,LOW,CONTACT
+2024-02-27T00:04:24Z,Bravo-5,52.851724,-1.158228,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:04:27Z,Alpha-2,52.915994,-1.251155,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:04:28Z,Falcon-3,52.968293,-1.2064,انفجار عبوة ناسفة! إصابات متعددة!,CRITICAL,CONTACT
+2024-02-27T00:04:33Z,Eagle-2,52.881419,-1.220341,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:04:37Z,Falcon-3,53.019663,-1.138689,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:04:40Z,Charlie-1,52.855059,-1.118323,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:04:43Z,Falcon-6,52.925851,-1.116999,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:04:44Z,Alpha-6,52.987938,-1.148954,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:04:52Z,Alpha-1,52.902866,-1.167203,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:04:58Z,Eagle-3,53.019582,-1.205275,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:05:01Z,Charlie-5,53.003831,-1.296283,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:05:01Z,Alpha-1,52.854465,-1.284119,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:05:02Z,Charlie-3,52.973767,-1.235479,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:05:05Z,Bravo-1,52.997227,-1.15267,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:05:06Z,Charlie-2,52.948207,-1.172166,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:05:20Z,Eagle-4,52.927823,-1.24688,Radio check. Lima Charlie. Over.,LOW,MEDICAL
+2024-02-27T00:05:25Z,Falcon-4,53.039317,-1.134704,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:05:27Z,Charlie-6,52.936685,-1.141668,All clear. No activity to report.,LOW,INTEL
+2024-02-27T00:05:29Z,Bravo-5,52.94447,-1.240846,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:05:32Z,Alpha-4,52.937223,-1.153574,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:05:33Z,Bravo-4,52.920743,-1.14677,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:05:34Z,Eagle-1,52.866171,-1.228717,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:05:37Z,Bravo-5,52.918004,-1.178801,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:05:39Z,Bravo-4,52.97835,-1.216656,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:05:41Z,Eagle-4,52.915248,-1.28031,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:05:49Z,Eagle-3,52.880054,-1.271702,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:05:53Z,Eagle-3,52.933727,-1.114912,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:05:53Z,Eagle-2,52.85496,-1.291295,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:05:56Z,Falcon-1,52.968648,-1.153094,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:05:56Z,Falcon-5,52.95602,-1.170231,Position check: holding at grid 6508 1551.,MEDIUM,ROUTINE
+2024-02-27T00:06:00Z,Eagle-6,52.892286,-1.281107,HUMINT source reports weapons cache at grid 4180 8998.,HIGH,INTEL
+2024-02-27T00:06:02Z,Bravo-1,52.913949,-1.223486,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:06:03Z,Charlie-4,52.878883,-1.124686,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:06:05Z,Eagle-2,52.949848,-1.178736,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:06:06Z,Charlie-2,53.008922,-1.231099,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:06:07Z,Charlie-3,52.87941,-1.1262,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:06:11Z,Bravo-3,52.987886,-1.261188,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:06:11Z,Falcon-5,52.894756,-1.168443,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:06:13Z,Alpha-5,52.934112,-1.160138,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:06:13Z,Charlie-6,52.970668,-1.225944,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:06:15Z,Eagle-4,52.916236,-1.131046,HUMINT source reports weapons cache at grid 6757 9706.,HIGH,INTEL
+2024-02-27T00:06:23Z,Alpha-1,52.952894,-1.172812,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:06:23Z,Eagle-3,52.937896,-1.256512,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:06:30Z,Alpha-6,52.980401,-1.151491,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:06:33Z,Bravo-3,52.962887,-1.185586,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:06:35Z,Charlie-1,52.980169,-1.247865,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:06:36Z,Bravo-5,53.012419,-1.22364,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:06:50Z,Eagle-3,52.853123,-1.196925,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:06:50Z,Eagle-4,52.858121,-1.160143,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:06:56Z,Bravo-4,52.898288,-1.175419,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:07:03Z,Falcon-3,52.971319,-1.235695,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:07:09Z,Alpha-1,53.033951,-1.291255,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:07:10Z,Eagle-3,52.942966,-1.145706,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:07:12Z,Charlie-2,52.972666,-1.299123,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:07:13Z,Eagle-1,52.861108,-1.271838,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:07:14Z,Charlie-1,52.958758,-1.256146,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:07:15Z,Bravo-5,52.870826,-1.251361,Routine patrol complete. Sector clear. RTB.,LOW,CONTACT
+2024-02-27T00:07:18Z,Falcon-4,52.916136,-1.282256,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:07:29Z,Charlie-3,52.982583,-1.108625,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:07:33Z,Charlie-5,52.861571,-1.188574,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:07:33Z,Alpha-4,52.872716,-1.250147,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:07:34Z,Eagle-4,52.879634,-1.240239,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:07:36Z,Bravo-2,52.892937,-1.261115,Routine patrol complete. Sector clear. RTB.,LOW,INTEL
+2024-02-27T00:07:58Z,Alpha-5,52.875375,-1.167695,Position check: holding at grid 1646 7444.,MEDIUM,ROUTINE
+2024-02-27T00:07:59Z,Bravo-1,52.869935,-1.177623,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:08:00Z,Alpha-1,53.020384,-1.106591,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:08:01Z,Eagle-4,52.993231,-1.261865,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:08:07Z,Charlie-3,52.854838,-1.159592,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:08:11Z,Eagle-4,52.958362,-1.111775,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:08:28Z,Alpha-3,53.004241,-1.175875,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:08:33Z,Eagle-5,52.92386,-1.279435,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:08:37Z,Alpha-5,52.906102,-1.112493,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:08:38Z,Bravo-5,52.998497,-1.113958,HVT positively identified at grid 3213 4418. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:08:42Z,Eagle-4,52.968681,-1.25756,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:08:42Z,Bravo-4,53.000993,-1.154251,Request water resupply at grid 5811 3320.,MEDIUM,LOGISTICS
+2024-02-27T00:08:45Z,Bravo-3,52.862906,-1.175926,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:08:59Z,Charlie-5,53.011746,-1.250726,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:08:59Z,Charlie-5,52.899945,-1.150195,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:09:07Z,Alpha-3,52.878509,-1.214291,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:09:10Z,Alpha-3,52.991708,-1.237606,Mail delivery received.,LOW,INTEL
+2024-02-27T00:09:13Z,Charlie-5,52.91297,-1.226248,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:09:15Z,Alpha-1,52.936784,-1.202355,Routine patrol complete. Sector clear. RTB.,LOW,CONTACT
+2024-02-27T00:09:21Z,Charlie-3,52.997338,-1.108366,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:09:28Z,Eagle-1,52.896916,-1.190036,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:09:52Z,Bravo-2,52.915163,-1.254808,Troops in contact! Grid reference 6976 9837. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:09:57Z,Eagle-1,52.944177,-1.117261,كمين! اشتباك من الجهة الشمالية!,CRITICAL,CONTACT
+2024-02-27T00:09:57Z,Eagle-3,52.889388,-1.203257,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:10:03Z,Charlie-5,52.950044,-1.229814,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:10:03Z,Alpha-4,52.916333,-1.261234,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:10:03Z,Eagle-5,52.863229,-1.112517,نحن تحت نيران كثيفة! نحتاج دعم فوري!,CRITICAL,INTEL
+2024-02-27T00:10:07Z,Bravo-5,52.950465,-1.181019,Routine patrol complete. Sector clear. RTB.,LOW,INTEL
+2024-02-27T00:10:09Z,Falcon-4,52.878639,-1.265663,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:10:09Z,Eagle-1,52.993926,-1.279758,فحص الاتصالات. الإشارة واضحة,LOW,LOGISTICS
+2024-02-27T00:10:12Z,Alpha-2,53.004228,-1.219379,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:10:16Z,Alpha-4,52.963676,-1.184298,Troops in contact! Grid reference 8114 2459. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:10:22Z,Charlie-1,52.992957,-1.172224,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:10:30Z,Eagle-6,53.02092,-1.105304,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:10:32Z,Alpha-5,53.02156,-1.145244,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:10:33Z,Eagle-6,53.010982,-1.263868,Request water resupply at grid 8934 2678.,MEDIUM,LOGISTICS
+2024-02-27T00:10:39Z,Eagle-1,52.8624,-1.10035,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,LOGISTICS
+2024-02-27T00:10:43Z,Charlie-1,52.931824,-1.194632,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:10:44Z,Charlie-6,53.031834,-1.12301,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:10:52Z,Alpha-6,53.019714,-1.228157,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:10:54Z,Falcon-1,53.001165,-1.194903,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:10:54Z,Eagle-4,52.991097,-1.243577,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:10:58Z,Bravo-4,52.906327,-1.136989,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:11:01Z,Eagle-3,52.957167,-1.15097,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:11:03Z,Bravo-1,52.875099,-1.138341,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:11:06Z,Alpha-3,52.922717,-1.164529,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:11:07Z,Charlie-3,52.905852,-1.299767,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:11:07Z,Falcon-1,52.956697,-1.110796,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:11:09Z,Charlie-4,52.894645,-1.210092,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:11:18Z,Falcon-6,52.944722,-1.200563,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:11:19Z,Charlie-4,53.023297,-1.246355,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:11:19Z,Charlie-1,52.938693,-1.100301,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:11:23Z,Eagle-2,53.013297,-1.270442,دورية روتينية، المنطقة آمنة,LOW,LOGISTICS
+2024-02-27T00:11:26Z,Alpha-6,52.963568,-1.214612,All clear. No activity to report.,LOW,MEDICAL
+2024-02-27T00:11:26Z,Bravo-2,53.036125,-1.122872,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:11:31Z,Charlie-2,53.02261,-1.283498,All clear. No activity to report.,LOW,INTEL
+2024-02-27T00:11:39Z,Charlie-6,52.854629,-1.268017,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:11:39Z,Charlie-6,53.020287,-1.263069,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:11:40Z,Eagle-1,52.9436,-1.232743,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:11:42Z,Bravo-6,53.016613,-1.298564,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:11:45Z,Charlie-1,52.976617,-1.115635,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:11:46Z,Falcon-6,53.012253,-1.265066,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,INTEL
+2024-02-27T00:11:48Z,Eagle-1,52.996019,-1.105519,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,INTEL
+2024-02-27T00:11:50Z,Falcon-6,52.972007,-1.299933,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:11:51Z,Bravo-5,52.981393,-1.167069,Request water resupply at grid 5687 8290.,MEDIUM,LOGISTICS
+2024-02-27T00:11:52Z,Eagle-4,52.962529,-1.282996,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:11:54Z,Alpha-2,52.887121,-1.250465,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:11:56Z,Eagle-3,52.941119,-1.278715,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:11:57Z,Falcon-6,52.851753,-1.227854,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:12:00Z,Alpha-1,52.866043,-1.141074,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:12:04Z,Falcon-1,52.95571,-1.247662,صيانة مطلوبة للمركبة الثانية,MEDIUM,CONTACT
+2024-02-27T00:12:11Z,Falcon-5,53.008451,-1.234823,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:12:24Z,Alpha-2,52.907775,-1.257818,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:12:26Z,Alpha-4,52.923896,-1.187105,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:12:27Z,Alpha-5,52.958915,-1.190676,Position check: holding at grid 9957 9864.,MEDIUM,ROUTINE
+2024-02-27T00:12:33Z,Eagle-3,52.931474,-1.152628,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:12:40Z,Alpha-3,52.986319,-1.118111,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:12:40Z,Falcon-1,52.894342,-1.239382,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:12:46Z,Charlie-2,52.854837,-1.191443,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:12:46Z,Charlie-6,52.982549,-1.288747,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:12:49Z,Bravo-3,52.96419,-1.221221,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:12:51Z,Falcon-2,52.906345,-1.109572,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:12:55Z,Eagle-4,52.949758,-1.241712,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:12:59Z,Bravo-1,52.971217,-1.181452,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:13:07Z,Eagle-2,52.99052,-1.200175,دورية روتينية، المنطقة آمنة,LOW,LOGISTICS
+2024-02-27T00:13:08Z,Falcon-4,52.921342,-1.198517,Request water resupply at grid 7410 9313.,MEDIUM,LOGISTICS
+2024-02-27T00:13:19Z,Falcon-5,52.991348,-1.239632,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:13:28Z,Alpha-1,52.985122,-1.272655,Request water resupply at grid 4465 1411.,MEDIUM,LOGISTICS
+2024-02-27T00:13:29Z,Bravo-3,52.953196,-1.119109,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:13:29Z,Alpha-4,52.968264,-1.259485,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:13:38Z,Falcon-4,52.936637,-1.223076,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:13:43Z,Falcon-5,53.01487,-1.177107,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:13:50Z,Charlie-6,52.940566,-1.255913,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:13:51Z,Charlie-5,52.94508,-1.233794,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:13:51Z,Charlie-4,52.896184,-1.171416,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:13:56Z,Charlie-4,52.994475,-1.16393,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:13:59Z,Eagle-1,52.963922,-1.10525,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:14:00Z,Falcon-1,52.885509,-1.265234,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:14:02Z,Alpha-1,52.983241,-1.232534,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:14:04Z,Alpha-3,52.872874,-1.213503,HVT positively identified at grid 3022 5696. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:14:07Z,Eagle-6,52.87618,-1.172084,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:14:12Z,Charlie-6,52.93045,-1.145505,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:14:16Z,Falcon-5,52.950327,-1.277492,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:14:16Z,Falcon-3,52.968592,-1.13104,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:14:17Z,Charlie-2,53.006906,-1.233541,Radio check. Lima Charlie. Over.,LOW,MEDICAL
+2024-02-27T00:14:20Z,Falcon-6,53.00353,-1.129746,Radio check. Lima Charlie. Over.,LOW,CONTACT
+2024-02-27T00:14:20Z,Alpha-5,52.916339,-1.154254,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:14:23Z,Falcon-4,52.853307,-1.242897,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:14:24Z,Falcon-1,52.915595,-1.228085,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:14:27Z,Eagle-3,52.876279,-1.228366,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:14:28Z,Alpha-5,52.881008,-1.179239,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:14:31Z,Charlie-3,52.965352,-1.276418,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:14:36Z,Falcon-6,53.006619,-1.136631,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:14:36Z,Charlie-1,52.937338,-1.290449,Position check: holding at grid 1020 1245.,MEDIUM,ROUTINE
+2024-02-27T00:14:37Z,Charlie-5,52.882476,-1.115519,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:14:39Z,Falcon-2,52.880836,-1.249793,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:14:40Z,Charlie-4,52.888006,-1.250452,Request water resupply at grid 3006 9320.,MEDIUM,LOGISTICS
+2024-02-27T00:14:41Z,Charlie-1,52.940933,-1.234262,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:14:43Z,Eagle-2,53.026961,-1.12883,Elevated threat level. All patrols adopt enhanced posture.,HIGH,ROUTINE
+2024-02-27T00:14:43Z,Bravo-5,52.943966,-1.232195,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:14:44Z,Charlie-4,52.935334,-1.259035,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:14:57Z,Eagle-5,53.012115,-1.268372,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:14:59Z,Eagle-3,53.032593,-1.127771,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:15:00Z,Charlie-5,53.023094,-1.272858,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:15:09Z,Alpha-1,52.871847,-1.274544,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:15:10Z,Alpha-5,52.88391,-1.192548,Request water resupply at grid 3086 4648.,MEDIUM,LOGISTICS
+2024-02-27T00:15:11Z,Eagle-1,52.919891,-1.178207,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:15:11Z,Bravo-4,52.850426,-1.20427,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:15:20Z,Alpha-1,52.941026,-1.157291,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:15:20Z,Falcon-1,52.965904,-1.211052,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:15:21Z,Alpha-2,53.005016,-1.230486,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:15:25Z,Charlie-2,52.935726,-1.278166,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:15:26Z,Bravo-4,52.934789,-1.174709,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:15:28Z,Bravo-5,52.901223,-1.135922,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:15:29Z,Bravo-1,52.90013,-1.296057,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:15:33Z,Eagle-6,52.878754,-1.183061,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:15:35Z,Falcon-2,52.85257,-1.143591,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:15:36Z,Alpha-1,53.004655,-1.113076,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:15:37Z,Alpha-1,53.005215,-1.258089,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:15:39Z,Eagle-1,52.856168,-1.146223,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:15:39Z,Bravo-1,52.869435,-1.278051,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:15:41Z,Falcon-3,52.924409,-1.13843,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:15:46Z,Falcon-3,52.872916,-1.130572,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:15:48Z,Falcon-6,52.892509,-1.231278,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:15:49Z,Eagle-6,52.925373,-1.121552,Position check: holding at grid 2844 5462.,MEDIUM,ROUTINE
+2024-02-27T00:15:50Z,Falcon-5,52.98945,-1.233755,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:15:50Z,Alpha-6,53.015676,-1.233024,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:15:53Z,Alpha-2,53.036602,-1.266995,Request water resupply at grid 1842 4023.,MEDIUM,LOGISTICS
+2024-02-27T00:15:55Z,Alpha-1,52.968493,-1.182914,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:15:56Z,Charlie-1,52.931378,-1.280741,Request water resupply at grid 5516 6907.,MEDIUM,LOGISTICS
+2024-02-27T00:16:03Z,Falcon-4,52.9143,-1.239184,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:16:04Z,Alpha-2,52.96047,-1.191543,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:16:05Z,Eagle-1,52.907612,-1.297033,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:16:16Z,Charlie-4,52.857909,-1.19195,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:16:18Z,Bravo-5,52.900959,-1.149635,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:16:25Z,Bravo-6,52.933145,-1.140564,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:16:28Z,Charlie-2,52.876968,-1.268058,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:16:30Z,Charlie-1,52.858774,-1.117675,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:16:32Z,Charlie-2,52.898768,-1.273783,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:16:32Z,Charlie-6,52.934781,-1.143743,Request water resupply at grid 3097 4679.,MEDIUM,LOGISTICS
+2024-02-27T00:16:33Z,Falcon-3,52.9784,-1.255238,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:16:34Z,Bravo-5,52.873981,-1.208231,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:16:34Z,Eagle-2,52.851032,-1.18613,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:16:35Z,Eagle-2,52.961734,-1.122417,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:16:37Z,Falcon-4,52.85399,-1.223178,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:16:40Z,Bravo-4,52.958636,-1.132029,HUMINT source reports weapons cache at grid 1893 6911.,HIGH,INTEL
+2024-02-27T00:16:40Z,Charlie-6,52.909049,-1.146251,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:16:42Z,Alpha-6,52.975685,-1.270944,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:16:45Z,Eagle-5,52.91644,-1.101996,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:16:51Z,Alpha-4,52.992009,-1.260258,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:16:53Z,Falcon-5,52.964659,-1.285056,Request water resupply at grid 8328 7814.,MEDIUM,LOGISTICS
+2024-02-27T00:16:59Z,Alpha-3,52.994919,-1.210545,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:17:01Z,Charlie-3,52.998649,-1.276835,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:17:09Z,Charlie-3,52.942514,-1.115759,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:17:11Z,Charlie-2,52.931547,-1.23071,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:17:16Z,Eagle-4,52.98406,-1.102258,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:17:16Z,Alpha-6,52.960326,-1.228143,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:17:18Z,Bravo-4,52.881149,-1.291966,HUMINT source reports weapons cache at grid 6495 7364.,HIGH,INTEL
+2024-02-27T00:17:19Z,Eagle-3,53.000679,-1.175403,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:17:28Z,Charlie-1,53.02178,-1.270948,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:17:37Z,Bravo-3,53.03605,-1.170484,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:17:38Z,Eagle-3,52.851882,-1.164371,Ammunition critically low! Down to last magazine. Resupply NOW!,CRITICAL,LOGISTICS
+2024-02-27T00:17:43Z,Alpha-5,52.870295,-1.299121,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:17:48Z,Bravo-1,52.935998,-1.152934,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:17:48Z,Bravo-5,53.007209,-1.254682,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:17:49Z,Eagle-4,53.013682,-1.121352,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:17:59Z,Alpha-1,53.0238,-1.114434,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:18:03Z,Bravo-5,53.002665,-1.29231,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:18:09Z,Bravo-6,52.900846,-1.168264,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:18:14Z,Falcon-4,52.936896,-1.266145,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:18:16Z,Alpha-1,52.977234,-1.276906,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:18:17Z,Falcon-2,52.930807,-1.110937,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:18:18Z,Alpha-4,52.880664,-1.288048,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:18:20Z,Bravo-2,52.922464,-1.207713,Request water resupply at grid 9118 8229.,MEDIUM,LOGISTICS
+2024-02-27T00:18:20Z,Bravo-2,52.853109,-1.174321,Routine patrol complete. Sector clear. RTB.,LOW,MEDICAL
+2024-02-27T00:18:24Z,Falcon-1,52.918683,-1.282931,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:18:25Z,Falcon-4,52.981667,-1.210879,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:18:26Z,Eagle-4,52.850529,-1.14636,All clear. No activity to report.,LOW,CONTACT
+2024-02-27T00:18:27Z,Eagle-2,53.024416,-1.273842,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:18:32Z,Alpha-4,52.949847,-1.101821,Request water resupply at grid 3660 8579.,MEDIUM,LOGISTICS
+2024-02-27T00:18:36Z,Charlie-2,52.988187,-1.135787,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:18:40Z,Eagle-2,52.86283,-1.118619,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:18:41Z,Bravo-1,52.866949,-1.17287,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:18:44Z,Falcon-5,52.938533,-1.210233,HUMINT source reports weapons cache at grid 5001 6996.,HIGH,INTEL
+2024-02-27T00:18:45Z,Bravo-1,52.907763,-1.28361,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:18:49Z,Alpha-5,52.999321,-1.193461,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:18:50Z,Bravo-6,52.913469,-1.174117,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:18:54Z,Falcon-5,53.038998,-1.26683,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:19:02Z,Charlie-4,53.010649,-1.263114,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:19:05Z,Falcon-3,52.957041,-1.294281,All clear. No activity to report.,LOW,INTEL
+2024-02-27T00:19:07Z,Eagle-1,52.942679,-1.261341,Request water resupply at grid 9503 1718.,MEDIUM,LOGISTICS
+2024-02-27T00:19:09Z,Falcon-5,52.942476,-1.156106,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:19:09Z,Eagle-4,53.022634,-1.252694,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:19:10Z,Bravo-6,52.96995,-1.164337,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:19:16Z,Bravo-1,52.913091,-1.241463,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:19:17Z,Bravo-3,52.875989,-1.189558,Request water resupply at grid 1302 3665.,MEDIUM,LOGISTICS
+2024-02-27T00:19:18Z,Falcon-5,52.852962,-1.207828,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:19:20Z,Charlie-4,52.979919,-1.29876,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:19:21Z,Charlie-3,53.009002,-1.227436,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:19:21Z,Falcon-5,52.937741,-1.214857,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:19:28Z,Eagle-4,53.024788,-1.14268,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:19:29Z,Eagle-2,52.94308,-1.17466,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:19:30Z,Eagle-4,52.957279,-1.240596,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:19:31Z,Falcon-6,52.9219,-1.285427,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:19:36Z,Falcon-5,53.012571,-1.28591,Request water resupply at grid 5443 4055.,MEDIUM,LOGISTICS
+2024-02-27T00:19:38Z,Alpha-1,53.005099,-1.293765,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:19:39Z,Falcon-5,53.009751,-1.220953,Position check: holding at grid 4685 1383.,MEDIUM,ROUTINE
+2024-02-27T00:19:44Z,Alpha-5,52.87456,-1.187195,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:19:44Z,Alpha-1,52.92729,-1.175099,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:19:45Z,Alpha-3,53.004093,-1.192242,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:20:06Z,Bravo-5,52.914944,-1.250355,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:20:10Z,Charlie-6,52.977542,-1.235601,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:20:11Z,Alpha-6,53.023034,-1.218215,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:20:12Z,Charlie-6,52.974296,-1.130138,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:20:16Z,Falcon-3,52.870952,-1.130816,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:20:17Z,Falcon-4,52.941029,-1.281984,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:20:20Z,Alpha-6,52.904278,-1.14735,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:20:22Z,Alpha-6,52.966853,-1.298432,Troops in contact! Grid reference 9783 8865. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:20:28Z,Bravo-2,52.973645,-1.224916,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:20:30Z,Eagle-3,52.908433,-1.249528,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:20:46Z,Bravo-6,52.926521,-1.142984,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:20:49Z,Bravo-4,52.876759,-1.249894,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:20:51Z,Eagle-5,52.911152,-1.167677,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:20:51Z,Eagle-2,52.994862,-1.111265,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:20:54Z,Eagle-4,52.890772,-1.253689,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:20:56Z,Alpha-4,52.88328,-1.222424,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:20:58Z,Eagle-5,52.991449,-1.160011,Elevated threat level. All patrols adopt enhanced posture.,HIGH,ROUTINE
+2024-02-27T00:21:01Z,Charlie-2,53.019718,-1.239307,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:21:16Z,Alpha-5,52.89605,-1.134806,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:21:22Z,Alpha-3,52.969148,-1.278411,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:21:24Z,Eagle-6,52.870931,-1.163845,Radio check. Lima Charlie. Over.,LOW,INTEL
+2024-02-27T00:21:28Z,Charlie-1,53.029347,-1.169069,Request water resupply at grid 6765 8792.,MEDIUM,LOGISTICS
+2024-02-27T00:21:28Z,Bravo-1,53.000524,-1.140858,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:21:29Z,Bravo-4,52.929569,-1.158863,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:21:33Z,Charlie-5,52.946919,-1.106358,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:21:34Z,Charlie-5,52.9471,-1.259676,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:21:35Z,Falcon-5,52.993801,-1.269955,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:21:39Z,Alpha-4,52.900414,-1.199446,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:21:41Z,Falcon-1,53.023935,-1.240133,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:21:41Z,Alpha-5,52.912644,-1.262816,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:21:44Z,Bravo-5,52.945113,-1.24032,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:21:47Z,Charlie-1,52.962841,-1.12474,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:21:47Z,Falcon-2,52.993857,-1.271102,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:21:49Z,Eagle-6,52.961771,-1.189331,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:21:51Z,Alpha-4,52.900019,-1.188881,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:21:52Z,Charlie-1,52.859575,-1.225558,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:21:56Z,Alpha-3,52.967786,-1.11683,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:21:56Z,Eagle-6,53.010451,-1.157935,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:22:00Z,Eagle-3,53.033524,-1.173513,Equipment inventory complete.,LOW,CONTACT
+2024-02-27T00:22:01Z,Alpha-6,53.004021,-1.12612,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:22:01Z,Falcon-5,52.903263,-1.213108,رصد تحركات مشبوهة في القطاع ٤,HIGH,CONTACT
+2024-02-27T00:22:01Z,Charlie-5,52.869368,-1.217651,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:22:09Z,Charlie-1,52.878035,-1.227251,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:22:13Z,Falcon-6,52.935883,-1.187144,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:22:15Z,Alpha-1,53.013214,-1.169218,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:22:21Z,Falcon-2,53.007064,-1.110754,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:22:23Z,Charlie-1,53.020349,-1.257544,Radio check. Lima Charlie. Over.,LOW,INTEL
+2024-02-27T00:22:26Z,Bravo-1,53.032016,-1.288784,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:22:35Z,Falcon-4,52.939829,-1.107015,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:22:37Z,Alpha-1,53.035606,-1.288853,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:22:40Z,Falcon-5,52.984155,-1.23985,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:22:42Z,Alpha-4,52.926051,-1.24145,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:22:46Z,Eagle-3,52.983505,-1.178941,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:22:52Z,Falcon-2,52.92216,-1.261048,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,INTEL
+2024-02-27T00:22:52Z,Charlie-2,52.951347,-1.10097,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:23:04Z,Falcon-5,52.86233,-1.247157,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:23:09Z,Eagle-4,52.941969,-1.203918,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:23:14Z,Falcon-4,52.958385,-1.246092,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:23:14Z,Charlie-2,52.88321,-1.190514,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:23:14Z,Bravo-1,52.948956,-1.201649,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:23:18Z,Eagle-2,52.92104,-1.138935,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:23:21Z,Falcon-1,53.01032,-1.236329,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:23:25Z,Falcon-6,52.95583,-1.289577,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:23:26Z,Charlie-4,52.953722,-1.156851,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:23:27Z,Bravo-3,53.031509,-1.246554,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:23:29Z,Bravo-6,52.98813,-1.226069,Position check: holding at grid 6114 5186.,MEDIUM,ROUTINE
+2024-02-27T00:23:29Z,Falcon-3,52.890126,-1.288038,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:23:31Z,Eagle-4,52.949999,-1.251427,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:23:32Z,Falcon-1,52.986803,-1.298773,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:23:35Z,Bravo-6,52.930619,-1.163204,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:23:49Z,Charlie-3,52.961553,-1.256947,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:23:50Z,Bravo-1,52.858263,-1.164195,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:23:59Z,Charlie-2,53.032127,-1.206054,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:24:02Z,Alpha-6,52.863411,-1.247181,Request water resupply at grid 1045 9466.,MEDIUM,LOGISTICS
+2024-02-27T00:24:03Z,Falcon-6,52.941743,-1.156963,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:24:08Z,Charlie-3,53.010313,-1.264256,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:24:08Z,Charlie-6,52.890152,-1.201711,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:24:09Z,Eagle-5,52.870947,-1.202347,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:24:13Z,Bravo-6,52.908277,-1.297385,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:24:17Z,Falcon-6,52.893963,-1.151158,صيانة مطلوبة للمركبة الثانية,MEDIUM,ROUTINE
+2024-02-27T00:24:22Z,Eagle-2,52.990672,-1.206818,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:24:22Z,Alpha-2,52.970667,-1.219679,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:24:25Z,Bravo-2,52.850603,-1.132237,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:24:29Z,Falcon-4,52.854936,-1.223058,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:24:30Z,Bravo-5,52.852159,-1.1833,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:24:31Z,Falcon-3,53.007056,-1.20024,Request water resupply at grid 5509 7506.,MEDIUM,LOGISTICS
+2024-02-27T00:24:35Z,Falcon-3,52.966152,-1.233935,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:24:36Z,Eagle-1,52.956242,-1.293488,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:24:41Z,Falcon-3,52.888669,-1.293146,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:24:42Z,Alpha-1,53.03112,-1.191368,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:24:46Z,Falcon-3,52.905407,-1.135947,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:24:48Z,Bravo-6,52.892749,-1.151788,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:24:48Z,Bravo-4,53.010584,-1.296452,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:24:50Z,Alpha-6,53.00534,-1.281099,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:24:56Z,Bravo-5,52.923787,-1.12736,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:25:00Z,Eagle-5,52.962378,-1.262618,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:25:05Z,Bravo-6,52.911401,-1.201951,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:25:09Z,Bravo-1,52.991686,-1.188286,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:25:11Z,Alpha-1,52.960354,-1.168157,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:25:18Z,Alpha-1,52.986782,-1.149495,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:25:22Z,Bravo-4,52.87457,-1.27657,Position check: holding at grid 9500 4894.,MEDIUM,ROUTINE
+2024-02-27T00:25:25Z,Alpha-4,53.028804,-1.273789,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:25:26Z,Alpha-6,53.029216,-1.26958,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:25:30Z,Eagle-5,53.033994,-1.255343,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:25:31Z,Eagle-4,52.873696,-1.28941,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:25:34Z,Charlie-2,52.978518,-1.259903,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:25:37Z,Bravo-3,52.995378,-1.257656,All clear. No activity to report.,LOW,MEDICAL
+2024-02-27T00:25:41Z,Alpha-1,52.951012,-1.13801,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:25:41Z,Falcon-2,53.020001,-1.196784,انفجار عبوة ناسفة! إصابات متعددة!,CRITICAL,CONTACT
+2024-02-27T00:25:44Z,Eagle-6,53.006888,-1.292914,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:26:02Z,Alpha-6,52.988758,-1.174392,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:26:10Z,Eagle-4,53.039887,-1.143283,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:26:20Z,Charlie-5,52.976353,-1.211609,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:26:21Z,Alpha-4,53.016553,-1.19379,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:26:23Z,Bravo-5,52.930447,-1.163582,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:26:24Z,Charlie-1,52.879021,-1.241843,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:26:25Z,Falcon-2,52.906853,-1.252482,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:26:26Z,Bravo-2,52.916333,-1.183007,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:26:37Z,Bravo-5,52.934708,-1.294959,HUMINT source reports weapons cache at grid 9036 6138.,HIGH,INTEL
+2024-02-27T00:26:38Z,Charlie-5,52.852139,-1.277547,Position check: holding at grid 3963 9192.,MEDIUM,ROUTINE
+2024-02-27T00:26:41Z,Charlie-5,53.002406,-1.245118,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:26:42Z,Alpha-6,53.027104,-1.145854,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:26:43Z,Bravo-1,52.952205,-1.159529,Request water resupply at grid 9189 8217.,MEDIUM,LOGISTICS
+2024-02-27T00:26:46Z,Eagle-5,53.025999,-1.262948,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:26:48Z,Charlie-6,52.889457,-1.218428,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:26:51Z,Bravo-6,52.9994,-1.233475,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:26:53Z,Eagle-3,52.940337,-1.243252,Routine patrol complete. Sector clear. RTB.,LOW,INTEL
+2024-02-27T00:27:02Z,Alpha-4,53.033589,-1.235679,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:27:11Z,Falcon-3,53.007487,-1.265462,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:27:14Z,Bravo-5,52.957116,-1.17533,Troops in contact! Grid reference 1524 3914. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:27:19Z,Falcon-4,52.890739,-1.130152,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:27:35Z,Eagle-6,52.999387,-1.27352,Request water resupply at grid 5097 1811.,MEDIUM,LOGISTICS
+2024-02-27T00:27:39Z,Falcon-1,52.934139,-1.243667,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:27:42Z,Bravo-1,53.00788,-1.219969,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:27:46Z,Eagle-6,52.948409,-1.247748,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:27:48Z,Charlie-2,52.933802,-1.110108,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:27:48Z,Eagle-2,52.907035,-1.153245,Position check: holding at grid 7734 8762.,MEDIUM,ROUTINE
+2024-02-27T00:27:52Z,Charlie-6,52.87364,-1.237525,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:27:57Z,Eagle-1,53.012322,-1.13757,مركبة مجهولة تقترب بسرعة,HIGH,MEDICAL
+2024-02-27T00:27:57Z,Falcon-5,52.987316,-1.277485,Request water resupply at grid 7506 7018.,MEDIUM,LOGISTICS
+2024-02-27T00:27:58Z,Falcon-3,53.032473,-1.239911,فحص الاتصالات. الإشارة واضحة,LOW,CONTACT
+2024-02-27T00:28:01Z,Alpha-2,52.873125,-1.192268,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:28:02Z,Bravo-1,52.928953,-1.122396,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:28:09Z,Bravo-3,52.910375,-1.150705,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:28:13Z,Falcon-4,53.026516,-1.214449,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:28:30Z,Falcon-4,52.945417,-1.188595,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:28:33Z,Alpha-4,52.959537,-1.164045,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:28:34Z,Charlie-5,52.885638,-1.299867,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:28:40Z,Eagle-6,52.870709,-1.173632,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:28:41Z,Falcon-5,52.989925,-1.277295,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:28:46Z,Bravo-2,52.909596,-1.283965,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:28:46Z,Falcon-6,52.991871,-1.278613,Routine patrol complete. Sector clear. RTB.,LOW,MEDICAL
+2024-02-27T00:28:53Z,Charlie-5,52.971168,-1.113219,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:28:53Z,Alpha-1,52.99925,-1.228395,"All stations, all stations — REDCON 1. This is not a drill.",CRITICAL,ROUTINE
+2024-02-27T00:28:56Z,Bravo-1,52.938092,-1.16005,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:28:57Z,Falcon-1,52.87518,-1.106452,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:28:57Z,Bravo-3,52.865152,-1.165128,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:29:06Z,Charlie-2,52.892876,-1.100899,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:29:17Z,Bravo-6,53.022803,-1.250013,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:29:23Z,Falcon-5,52.861427,-1.1535,صيانة مطلوبة للمركبة الثانية,MEDIUM,ROUTINE
+2024-02-27T00:29:23Z,Charlie-2,52.931817,-1.233359,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:29:28Z,Eagle-3,52.975721,-1.227835,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:29:30Z,Bravo-5,52.975769,-1.202474,Routine patrol complete. Sector clear. RTB.,LOW,MEDICAL
+2024-02-27T00:29:30Z,Alpha-1,52.932844,-1.214652,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:29:31Z,Falcon-5,52.858149,-1.20874,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:29:34Z,Eagle-5,53.015662,-1.293204,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,LOGISTICS
+2024-02-27T00:29:36Z,Falcon-5,52.958273,-1.124806,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:29:41Z,Alpha-6,52.978469,-1.149093,Request water resupply at grid 6978 4600.,MEDIUM,LOGISTICS
+2024-02-27T00:29:41Z,Charlie-2,52.880353,-1.242667,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:29:42Z,Bravo-2,52.895771,-1.176048,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:29:47Z,Eagle-1,53.031073,-1.178775,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:29:49Z,Falcon-3,52.940696,-1.136625,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:29:50Z,Falcon-6,52.947259,-1.215943,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:29:52Z,Falcon-2,52.879994,-1.1609,فحص الاتصالات. الإشارة واضحة,LOW,INTEL
+2024-02-27T00:29:54Z,Alpha-4,52.852879,-1.155516,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:29:55Z,Falcon-6,52.966776,-1.102494,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:29:57Z,Alpha-5,53.001688,-1.28141,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:30:02Z,Bravo-1,52.856319,-1.220301,Request water resupply at grid 2145 8023.,MEDIUM,LOGISTICS
+2024-02-27T00:30:03Z,Eagle-6,52.917773,-1.239991,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:30:10Z,Alpha-4,52.907938,-1.231916,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:30:17Z,Eagle-3,52.875617,-1.204784,All clear. No activity to report.,LOW,INTEL
+2024-02-27T00:30:23Z,Falcon-5,52.919324,-1.142901,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:30:29Z,Eagle-5,53.000274,-1.13898,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:30:30Z,Eagle-4,52.899028,-1.121431,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:30:35Z,Eagle-3,52.935657,-1.210849,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:30:46Z,Alpha-5,53.015382,-1.133057,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:30:47Z,Alpha-3,52.870411,-1.298367,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:30:48Z,Falcon-5,52.990144,-1.171457,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:30:53Z,Charlie-2,53.013229,-1.269336,Radio check. Lima Charlie. Over.,LOW,INTEL
+2024-02-27T00:30:58Z,Alpha-5,52.860404,-1.295229,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:31:04Z,Charlie-4,52.865925,-1.180342,Equipment inventory complete.,LOW,MEDICAL
+2024-02-27T00:31:07Z,Eagle-2,52.975837,-1.251777,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:31:07Z,Charlie-3,53.019325,-1.117712,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:31:10Z,Alpha-3,53.018465,-1.164564,HUMINT source reports weapons cache at grid 6355 4040.,HIGH,INTEL
+2024-02-27T00:31:10Z,Bravo-4,53.017897,-1.195537,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:31:16Z,Bravo-4,52.902516,-1.146386,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:31:18Z,Alpha-3,52.982185,-1.108376,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:31:22Z,Bravo-1,52.862208,-1.141093,Request water resupply at grid 9484 2229.,MEDIUM,LOGISTICS
+2024-02-27T00:31:26Z,Bravo-1,52.945445,-1.268737,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:31:31Z,Charlie-5,52.926416,-1.170384,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:31:32Z,Alpha-3,52.877331,-1.21389,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:31:33Z,Eagle-3,52.85581,-1.221105,"All stations, all stations — REDCON 1. This is not a drill.",CRITICAL,ROUTINE
+2024-02-27T00:31:38Z,Falcon-6,52.937191,-1.13756,Fuel tanker hit. Total loss. Route compromised.,CRITICAL,LOGISTICS
+2024-02-27T00:31:42Z,Charlie-3,52.967742,-1.197838,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:31:44Z,Alpha-6,52.972541,-1.283247,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:31:50Z,Eagle-5,52.907791,-1.203375,رصد تحركات مشبوهة في القطاع ٤,HIGH,INTEL
+2024-02-27T00:31:51Z,Charlie-5,52.974238,-1.255671,Troops in contact! Grid reference 5126 5272. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:31:54Z,Charlie-5,53.025795,-1.1391,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:31:59Z,Falcon-2,52.913807,-1.212719,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:32:11Z,Alpha-4,52.943261,-1.127654,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:32:12Z,Eagle-6,52.968284,-1.236452,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:32:14Z,Alpha-4,53.036828,-1.249626,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:32:23Z,Alpha-3,52.964861,-1.208851,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:32:25Z,Eagle-5,53.037969,-1.129198,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:32:31Z,Alpha-6,52.961623,-1.199505,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:32:31Z,Falcon-4,52.990224,-1.18937,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:32:33Z,Alpha-5,52.94196,-1.201513,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:32:37Z,Alpha-2,52.988442,-1.10712,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:32:37Z,Falcon-2,52.88393,-1.275106,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:32:43Z,Falcon-2,52.958188,-1.128388,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:32:46Z,Alpha-4,52.944908,-1.27919,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:32:53Z,Bravo-3,52.869967,-1.222912,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:32:57Z,Bravo-4,52.967427,-1.144809,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:33:03Z,Falcon-2,52.978828,-1.18311,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:33:03Z,Bravo-6,53.014007,-1.286567,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:33:07Z,Alpha-5,52.901133,-1.183735,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:33:10Z,Bravo-3,52.972967,-1.175026,Troops in contact! Grid reference 3325 8941. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:33:11Z,Falcon-6,52.868486,-1.283006,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:33:13Z,Charlie-1,53.030605,-1.229877,HVT positively identified at grid 7765 7484. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:33:15Z,Alpha-6,52.97858,-1.140965,Position check: holding at grid 7168 4015.,MEDIUM,ROUTINE
+2024-02-27T00:33:16Z,Charlie-2,53.026815,-1.255573,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:33:25Z,Bravo-6,52.960788,-1.126061,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:33:31Z,Falcon-4,52.864765,-1.289361,"All stations, all stations — REDCON 1. This is not a drill.",CRITICAL,ROUTINE
+2024-02-27T00:33:38Z,Bravo-1,52.889653,-1.236313,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:33:38Z,Falcon-2,52.885083,-1.268467,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:33:51Z,Alpha-5,52.894805,-1.167929,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:33:53Z,Alpha-2,52.868357,-1.237649,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:33:56Z,Eagle-1,52.903879,-1.1893,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:33:58Z,Eagle-6,52.923286,-1.102653,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:34:03Z,Falcon-2,52.933333,-1.100375,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:34:04Z,Eagle-2,52.893217,-1.264404,كمين! اشتباك من الجهة الشمالية!,CRITICAL,MEDICAL
+2024-02-27T00:34:05Z,Bravo-3,52.966934,-1.106473,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:34:10Z,Falcon-3,53.004787,-1.11401,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:34:15Z,Alpha-3,52.994893,-1.22817,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:34:17Z,Alpha-2,53.020211,-1.179404,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:34:22Z,Eagle-4,52.960589,-1.185477,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:34:24Z,Alpha-1,52.888254,-1.186114,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:34:24Z,Eagle-2,52.90295,-1.27025,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:34:29Z,Charlie-3,52.90527,-1.168852,Mail delivery received.,LOW,CONTACT
+2024-02-27T00:34:31Z,Charlie-5,52.996856,-1.213545,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:34:31Z,Charlie-5,52.989861,-1.28205,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:34:32Z,Eagle-4,53.030307,-1.23651,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:34:35Z,Eagle-1,52.957183,-1.247004,انفجار عبوة ناسفة! إصابات متعددة!,CRITICAL,MEDICAL
+2024-02-27T00:34:36Z,Charlie-2,52.865025,-1.231348,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:34:38Z,Alpha-3,52.853881,-1.282896,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:34:43Z,Charlie-4,53.022715,-1.28654,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:34:46Z,Eagle-6,52.988478,-1.170994,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:34:47Z,Bravo-5,53.031469,-1.206929,HVT positively identified at grid 8480 7897. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:34:50Z,Charlie-4,52.86282,-1.234441,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:34:52Z,Alpha-4,52.896019,-1.155578,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:34:57Z,Bravo-3,52.858507,-1.246516,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:35:08Z,Bravo-1,52.95923,-1.195006,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:35:15Z,Eagle-3,52.897808,-1.109623,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:35:23Z,Eagle-2,52.995011,-1.128455,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:35:23Z,Charlie-1,52.983935,-1.203894,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:35:24Z,Charlie-4,52.941327,-1.299606,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:35:29Z,Alpha-4,52.896729,-1.246024,"All stations, all stations — REDCON 1. This is not a drill.",CRITICAL,ROUTINE
+2024-02-27T00:35:30Z,Falcon-2,52.998267,-1.232586,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:35:32Z,Eagle-4,52.855705,-1.134763,مركبة مجهولة تقترب بسرعة,HIGH,CONTACT
+2024-02-27T00:35:34Z,Charlie-3,52.934483,-1.155619,Ammunition critically low! Down to last magazine. Resupply NOW!,CRITICAL,LOGISTICS
+2024-02-27T00:35:36Z,Charlie-6,52.889541,-1.235329,All clear. No activity to report.,LOW,CONTACT
+2024-02-27T00:35:45Z,Eagle-3,52.980137,-1.210811,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:35:49Z,Falcon-3,52.971972,-1.253529,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:35:51Z,Bravo-5,52.928042,-1.215864,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:35:58Z,Charlie-4,53.008851,-1.201078,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:36:11Z,Alpha-4,52.898881,-1.257974,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:36:13Z,Bravo-2,53.01673,-1.25913,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:36:15Z,Eagle-4,52.896257,-1.190038,انفجار عبوة ناسفة! إصابات متعددة!,CRITICAL,CONTACT
+2024-02-27T00:36:19Z,Charlie-2,52.85994,-1.168184,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:36:20Z,Alpha-6,52.945208,-1.114599,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:36:21Z,Eagle-3,52.958812,-1.124884,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:36:22Z,Alpha-1,53.015421,-1.213697,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:36:30Z,Alpha-5,52.986312,-1.228767,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:36:31Z,Falcon-3,53.031154,-1.129929,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:36:35Z,Alpha-6,52.968719,-1.253156,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:36:36Z,Falcon-2,53.037346,-1.292035,رصد تحركات مشبوهة في القطاع ٤,HIGH,LOGISTICS
+2024-02-27T00:36:36Z,Bravo-5,52.899923,-1.108355,Request water resupply at grid 3523 1408.,MEDIUM,LOGISTICS
+2024-02-27T00:36:38Z,Alpha-2,52.905879,-1.179516,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:36:45Z,Eagle-6,53.026015,-1.242106,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:36:50Z,Eagle-5,52.977727,-1.229401,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:36:52Z,Bravo-3,52.9902,-1.282039,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:36:55Z,Eagle-1,52.976849,-1.123286,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:37:01Z,Falcon-5,52.85392,-1.164006,HUMINT source reports weapons cache at grid 1960 1889.,HIGH,INTEL
+2024-02-27T00:37:01Z,Falcon-6,52.943017,-1.174809,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:37:04Z,Charlie-4,52.865626,-1.204536,Request water resupply at grid 6772 3201.,MEDIUM,LOGISTICS
+2024-02-27T00:37:06Z,Eagle-1,53.002185,-1.245942,All clear. No activity to report.,LOW,MEDICAL
+2024-02-27T00:37:13Z,Falcon-6,52.966024,-1.174193,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:37:14Z,Bravo-1,52.887345,-1.252236,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:37:16Z,Falcon-5,52.97203,-1.23717,صيانة مطلوبة للمركبة الثانية,MEDIUM,INTEL
+2024-02-27T00:37:17Z,Charlie-1,52.964885,-1.262287,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:37:20Z,Eagle-6,52.946748,-1.180165,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:37:21Z,Eagle-2,53.014809,-1.132066,Mail delivery received.,LOW,CONTACT
+2024-02-27T00:37:21Z,Eagle-2,52.976521,-1.252361,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:37:23Z,Alpha-6,52.900622,-1.132682,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:37:26Z,Charlie-3,53.039401,-1.173707,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:37:32Z,Charlie-5,52.867144,-1.175016,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:37:36Z,Bravo-4,52.95732,-1.287126,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:37:36Z,Eagle-1,52.917953,-1.242501,صيانة مطلوبة للمركبة الثانية,MEDIUM,ROUTINE
+2024-02-27T00:37:39Z,Falcon-2,53.023787,-1.185347,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:37:42Z,Alpha-1,52.964968,-1.113702,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:37:52Z,Bravo-5,52.908296,-1.213609,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:37:52Z,Bravo-5,53.024928,-1.176513,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:37:56Z,Alpha-4,52.883586,-1.246825,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:38:01Z,Falcon-4,52.86849,-1.207949,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:38:03Z,Charlie-1,52.856446,-1.214572,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:38:12Z,Alpha-1,52.931239,-1.256828,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:38:38Z,Bravo-1,52.874308,-1.21993,Request water resupply at grid 6626 9638.,MEDIUM,LOGISTICS
+2024-02-27T00:38:38Z,Eagle-6,52.870751,-1.252604,"All stations, all stations — REDCON 1. This is not a drill.",CRITICAL,ROUTINE
+2024-02-27T00:38:43Z,Charlie-6,52.867262,-1.256538,Troops in contact! Grid reference 7748 5547. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:38:44Z,Eagle-1,52.877159,-1.197547,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:38:46Z,Bravo-1,52.886449,-1.267972,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:38:49Z,Bravo-3,52.991988,-1.292509,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:38:51Z,Falcon-6,52.951339,-1.112229,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:38:54Z,Eagle-2,52.938962,-1.276819,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:38:58Z,Eagle-4,52.863843,-1.22731,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:38:58Z,Eagle-3,53.01556,-1.16183,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:39:01Z,Eagle-1,53.004836,-1.146826,صيانة مطلوبة للمركبة الثانية,MEDIUM,ROUTINE
+2024-02-27T00:39:03Z,Bravo-6,53.039953,-1.254133,Equipment inventory complete.,LOW,MEDICAL
+2024-02-27T00:39:07Z,Alpha-2,52.913494,-1.146119,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:39:11Z,Alpha-4,52.928766,-1.26248,Request water resupply at grid 1553 9423.,MEDIUM,LOGISTICS
+2024-02-27T00:39:16Z,Eagle-1,52.872194,-1.1348,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:39:16Z,Bravo-2,52.895153,-1.177196,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:39:20Z,Charlie-4,52.911888,-1.253909,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:39:25Z,Eagle-3,52.916287,-1.115929,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:39:31Z,Eagle-2,52.852805,-1.102744,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:39:38Z,Eagle-2,52.914303,-1.254626,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:39:39Z,Falcon-4,53.035558,-1.165182,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:39:43Z,Eagle-6,52.984028,-1.152268,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:39:46Z,Falcon-6,52.958501,-1.298897,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:39:51Z,Charlie-4,52.970169,-1.126604,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:39:54Z,Eagle-3,52.904485,-1.19298,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:39:55Z,Charlie-3,53.02585,-1.168616,HUMINT source reports weapons cache at grid 5440 1617.,HIGH,INTEL
+2024-02-27T00:39:58Z,Alpha-3,53.00644,-1.194814,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:40:01Z,Charlie-2,52.9768,-1.198897,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:40:04Z,Bravo-6,53.007844,-1.179559,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:40:08Z,Eagle-1,53.001347,-1.19605,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:40:09Z,Charlie-2,52.927278,-1.192845,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:40:13Z,Eagle-2,53.039716,-1.196784,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:40:14Z,Eagle-4,52.989103,-1.175989,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:40:18Z,Falcon-5,52.859414,-1.155966,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:40:20Z,Charlie-4,52.933352,-1.158232,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:40:21Z,Falcon-6,52.981638,-1.233383,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:40:23Z,Charlie-2,53.038706,-1.170198,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:40:26Z,Eagle-4,52.987197,-1.160199,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,ROUTINE
+2024-02-27T00:40:27Z,Eagle-5,53.002599,-1.202561,Request water resupply at grid 7850 7543.,MEDIUM,LOGISTICS
+2024-02-27T00:40:30Z,Falcon-2,52.885745,-1.218907,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:40:32Z,Eagle-3,53.0151,-1.241145,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:40:33Z,Alpha-3,52.966303,-1.299666,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:40:34Z,Alpha-4,53.023434,-1.159206,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:40:34Z,Eagle-4,52.874037,-1.144004,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:40:36Z,Falcon-2,52.931709,-1.105984,دورية روتينية، المنطقة آمنة,LOW,LOGISTICS
+2024-02-27T00:40:37Z,Bravo-1,52.985153,-1.126431,Multiple casualties from mortar strike. Medical supplies exhausted.,CRITICAL,MEDICAL
+2024-02-27T00:40:39Z,Charlie-6,52.857649,-1.212255,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:40:43Z,Falcon-6,52.912441,-1.219868,Request water resupply at grid 8782 4795.,MEDIUM,LOGISTICS
+2024-02-27T00:40:44Z,Bravo-3,52.850231,-1.127086,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:40:47Z,Charlie-1,52.946017,-1.192592,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:40:48Z,Eagle-5,52.926148,-1.250929,Radio check. Lima Charlie. Over.,LOW,CONTACT
+2024-02-27T00:40:56Z,Bravo-6,52.883854,-1.236032,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:40:57Z,Eagle-5,52.981709,-1.110629,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:40:57Z,Charlie-3,52.869613,-1.161578,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:41:01Z,Eagle-1,52.940963,-1.136265,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:41:04Z,Charlie-1,52.988054,-1.276756,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:41:08Z,Charlie-6,52.894008,-1.208096,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:41:10Z,Alpha-4,53.035855,-1.206668,Request water resupply at grid 6384 6974.,MEDIUM,LOGISTICS
+2024-02-27T00:41:24Z,Alpha-4,52.99722,-1.162707,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:41:30Z,Bravo-4,52.858962,-1.171967,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:41:43Z,Charlie-2,53.025832,-1.28029,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:41:44Z,Eagle-3,53.03074,-1.284566,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:41:44Z,Eagle-5,52.903683,-1.150183,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:41:44Z,Eagle-2,52.992603,-1.187952,صيانة مطلوبة للمركبة الثانية,MEDIUM,INTEL
+2024-02-27T00:41:47Z,Eagle-6,52.853983,-1.204305,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:41:50Z,Charlie-3,53.023663,-1.273255,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:41:50Z,Alpha-1,53.015612,-1.157418,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:42:01Z,Charlie-5,52.897047,-1.199336,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:42:01Z,Falcon-5,53.020433,-1.106519,Elevated threat level. All patrols adopt enhanced posture.,HIGH,ROUTINE
+2024-02-27T00:42:01Z,Bravo-2,52.854614,-1.182807,Request water resupply at grid 8384 3732.,MEDIUM,LOGISTICS
+2024-02-27T00:42:02Z,Falcon-4,52.944265,-1.149018,Position check: holding at grid 9353 5840.,MEDIUM,ROUTINE
+2024-02-27T00:42:03Z,Alpha-5,52.927134,-1.221765,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:42:03Z,Falcon-5,53.031729,-1.254826,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:42:09Z,Bravo-6,52.897118,-1.176435,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:42:10Z,Eagle-1,52.966918,-1.178392,Radio check. Lima Charlie. Over.,LOW,MEDICAL
+2024-02-27T00:42:11Z,Eagle-3,52.988677,-1.18881,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:42:15Z,Eagle-4,52.909414,-1.152292,رصد تحركات مشبوهة في القطاع ٤,HIGH,MEDICAL
+2024-02-27T00:42:15Z,Charlie-2,52.947602,-1.21574,Routine patrol complete. Sector clear. RTB.,LOW,MEDICAL
+2024-02-27T00:42:24Z,Eagle-6,53.011972,-1.112025,مركبة مجهولة تقترب بسرعة,HIGH,INTEL
+2024-02-27T00:42:26Z,Charlie-3,52.912831,-1.234808,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:42:30Z,Bravo-4,52.941075,-1.238702,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:42:30Z,Eagle-4,52.898677,-1.258204,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:42:32Z,Alpha-4,52.854127,-1.26706,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:42:33Z,Charlie-6,53.024348,-1.250783,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:42:37Z,Falcon-6,52.926566,-1.189717,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:42:41Z,Eagle-1,52.938795,-1.119264,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:42:50Z,Charlie-6,52.85163,-1.147975,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:42:51Z,Eagle-5,53.038034,-1.126312,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:42:55Z,Falcon-5,53.03652,-1.11101,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:43:00Z,Bravo-1,53.035449,-1.180102,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:43:04Z,Alpha-6,52.888615,-1.220382,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:43:07Z,Alpha-4,52.944655,-1.170886,All clear. No activity to report.,LOW,CONTACT
+2024-02-27T00:43:10Z,Bravo-4,53.015796,-1.244452,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:43:21Z,Falcon-4,52.933078,-1.27883,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:43:23Z,Charlie-2,52.998933,-1.106882,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:43:23Z,Eagle-4,52.881581,-1.278821,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:43:25Z,Alpha-3,52.937809,-1.143879,All clear. No activity to report.,LOW,MEDICAL
+2024-02-27T00:43:40Z,Eagle-1,53.0392,-1.168358,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:43:44Z,Charlie-3,52.888632,-1.239532,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:43:46Z,Falcon-4,53.034012,-1.167281,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:43:54Z,Bravo-2,53.000486,-1.244434,Requesting QRF standby. Situation developing in Sector 7.,HIGH,ROUTINE
+2024-02-27T00:43:55Z,Charlie-5,52.97204,-1.25277,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:43:59Z,Eagle-5,52.993807,-1.122152,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:44:00Z,Charlie-5,52.938332,-1.266497,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:44:03Z,Charlie-5,52.963921,-1.125683,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:44:06Z,Charlie-5,52.882904,-1.181966,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:44:06Z,Falcon-2,52.985085,-1.176566,رصد تحركات مشبوهة في القطاع ٤,HIGH,MEDICAL
+2024-02-27T00:44:17Z,Bravo-6,52.933387,-1.226698,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:44:22Z,Bravo-4,52.886451,-1.128038,Intercepted radio traffic suggests enemy repositioning to the east.,HIGH,INTEL
+2024-02-27T00:44:23Z,Falcon-5,52.939797,-1.182879,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:44:34Z,Charlie-5,52.95296,-1.176565,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:44:39Z,Falcon-1,52.904923,-1.234255,رصد تحركات مشبوهة في القطاع ٤,HIGH,LOGISTICS
+2024-02-27T00:44:41Z,Alpha-6,52.861911,-1.136486,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:44:43Z,Eagle-1,53.038555,-1.12592,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:44:50Z,Bravo-3,52.996311,-1.194149,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:44:58Z,Falcon-2,52.908865,-1.144567,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:44:59Z,Charlie-3,52.859199,-1.227549,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:44:59Z,Bravo-4,52.869626,-1.274937,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:45:00Z,Alpha-2,53.036543,-1.142928,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:45:14Z,Charlie-1,53.025393,-1.132043,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:45:18Z,Eagle-3,52.884122,-1.197542,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:45:22Z,Alpha-6,53.015904,-1.107526,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:45:25Z,Charlie-4,52.873068,-1.225219,Radio check. Lima Charlie. Over.,LOW,CONTACT
+2024-02-27T00:45:27Z,Bravo-1,52.866779,-1.129905,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:45:27Z,Eagle-3,52.886963,-1.114702,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:45:27Z,Charlie-5,53.035635,-1.139036,Route Bravo compromised. Rerouting logistics convoy via Route Delta.,HIGH,LOGISTICS
+2024-02-27T00:45:28Z,Eagle-4,53.028674,-1.173167,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:45:30Z,Bravo-1,52.900016,-1.292848,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:45:30Z,Eagle-3,52.863017,-1.299359,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:45:32Z,Charlie-4,53.038855,-1.118258,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:45:35Z,Charlie-5,52.958349,-1.149649,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:45:41Z,Charlie-5,52.883248,-1.132462,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:45:49Z,Charlie-5,52.901077,-1.128799,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:45:51Z,Eagle-5,52.880694,-1.102381,نحن تحت نيران كثيفة! نحتاج دعم فوري!,CRITICAL,MEDICAL
+2024-02-27T00:45:55Z,Charlie-1,53.039862,-1.245557,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:45:55Z,Eagle-6,52.889492,-1.116052,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:45:59Z,Charlie-5,53.021286,-1.260646,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:46:01Z,Alpha-2,52.879872,-1.202392,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:46:12Z,Alpha-3,52.980196,-1.128777,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:46:16Z,Eagle-5,52.90529,-1.20706,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:46:22Z,Alpha-3,53.013358,-1.163908,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:46:23Z,Alpha-2,53.027665,-1.166479,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:46:28Z,Falcon-2,52.974025,-1.116078,رصد تحركات مشبوهة في القطاع ٤,HIGH,ROUTINE
+2024-02-27T00:46:28Z,Eagle-4,53.035276,-1.244141,رصد تحركات مشبوهة في القطاع ٤,HIGH,MEDICAL
+2024-02-27T00:46:33Z,Eagle-6,52.950322,-1.210253,HUMINT source reports weapons cache at grid 1456 1833.,HIGH,INTEL
+2024-02-27T00:46:39Z,Eagle-4,52.981634,-1.115351,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:46:40Z,Bravo-3,52.905692,-1.170909,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:46:42Z,Falcon-2,52.90435,-1.271178,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:46:43Z,Bravo-6,52.912621,-1.178502,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:46:48Z,Alpha-5,52.981583,-1.170799,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:46:52Z,Falcon-6,52.900189,-1.126143,"CASEVAC urgent! Two T1 casualties, GSW to chest and abdomen.",CRITICAL,MEDICAL
+2024-02-27T00:46:52Z,Eagle-3,52.864307,-1.14572,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:46:52Z,Falcon-3,52.859006,-1.24438,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:46:54Z,Alpha-4,52.896046,-1.156691,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:46:56Z,Charlie-6,53.000583,-1.261688,Position check: holding at grid 5612 8835.,MEDIUM,ROUTINE
+2024-02-27T00:47:01Z,Eagle-6,52.988679,-1.272958,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:47:07Z,Falcon-5,52.967259,-1.198776,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:47:08Z,Falcon-5,53.025813,-1.110752,نحن تحت نيران كثيفة! نحتاج دعم فوري!,CRITICAL,MEDICAL
+2024-02-27T00:47:09Z,Alpha-2,52.952294,-1.239157,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:47:12Z,Falcon-1,52.859143,-1.263662,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:47:21Z,Charlie-4,52.986713,-1.275299,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:47:22Z,Charlie-1,52.944991,-1.286991,Radio check. Lima Charlie. Over.,LOW,CONTACT
+2024-02-27T00:47:25Z,Eagle-6,52.869888,-1.209827,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
+2024-02-27T00:47:31Z,Alpha-6,52.88813,-1.108442,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:47:33Z,Eagle-6,53.005161,-1.224984,Troops in contact! Grid reference 4259 9681. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:47:35Z,Charlie-6,52.869254,-1.235777,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:47:40Z,Charlie-1,52.876464,-1.185734,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:47:47Z,Eagle-5,52.979564,-1.221314,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:47:48Z,Eagle-6,53.023871,-1.267172,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:47:51Z,Alpha-5,52.866333,-1.278163,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:47:52Z,Bravo-2,52.854886,-1.146922,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:47:54Z,Eagle-5,52.899075,-1.298918,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:47:56Z,Alpha-2,52.906711,-1.165797,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:48:03Z,Alpha-2,53.035012,-1.15158,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:48:16Z,Eagle-1,52.982507,-1.280459,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:48:19Z,Charlie-4,52.993026,-1.104489,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:48:21Z,Eagle-5,52.924658,-1.260517,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:48:24Z,Bravo-3,52.951254,-1.161726,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:48:28Z,Falcon-4,53.032451,-1.113391,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:48:38Z,Eagle-5,52.918464,-1.266478,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:48:38Z,Alpha-5,52.936311,-1.205545,Equipment inventory complete.,LOW,INTEL
+2024-02-27T00:48:40Z,Falcon-5,52.889447,-1.112879,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:48:40Z,Alpha-1,52.908138,-1.169256,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:48:42Z,Falcon-6,52.8565,-1.108778,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:48:45Z,Alpha-4,52.931787,-1.214683,Position check: holding at grid 2254 3358.,MEDIUM,ROUTINE
+2024-02-27T00:48:46Z,Eagle-3,52.85179,-1.243062,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:48:47Z,Charlie-4,52.856986,-1.261115,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:48:48Z,Eagle-4,52.866903,-1.197802,Confirmed VBIED heading towards checkpoint Delta. ETA 5 minutes!,CRITICAL,INTEL
+2024-02-27T00:48:54Z,Eagle-2,52.872011,-1.292049,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:49:01Z,Bravo-6,52.88393,-1.202286,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:49:05Z,Alpha-3,52.863543,-1.228501,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:49:10Z,Bravo-1,52.979232,-1.205879,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:49:11Z,Alpha-3,52.865307,-1.213181,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:49:16Z,Bravo-4,53.013692,-1.144125,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:49:17Z,Charlie-3,53.007448,-1.169238,Equipment inventory complete.,LOW,CONTACT
+2024-02-27T00:49:17Z,Alpha-3,52.858141,-1.229084,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:49:23Z,Alpha-5,53.017748,-1.152916,HUMINT source reports weapons cache at grid 1817 6127.,HIGH,INTEL
+2024-02-27T00:49:34Z,Eagle-1,52.886338,-1.278223,صيانة مطلوبة للمركبة الثانية,MEDIUM,MEDICAL
+2024-02-27T00:49:37Z,Charlie-5,53.035462,-1.143764,Position check: holding at grid 9067 6673.,MEDIUM,ROUTINE
+2024-02-27T00:49:41Z,Eagle-4,52.882342,-1.252185,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:49:47Z,Bravo-6,53.018211,-1.282255,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:49:56Z,Falcon-5,52.949528,-1.235959,رصد تحركات مشبوهة في القطاع ٤,HIGH,INTEL
+2024-02-27T00:49:56Z,Falcon-3,52.954684,-1.165957,Equipment inventory complete.,LOW,LOGISTICS
+2024-02-27T00:49:59Z,Bravo-4,53.039163,-1.202823,Suspicious vehicle approaching checkpoint. Weapons visible.,HIGH,CONTACT
+2024-02-27T00:49:59Z,Eagle-2,52.850627,-1.148101,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:50:02Z,Eagle-2,52.952836,-1.116064,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:50:03Z,Charlie-4,52.872674,-1.135836,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:50:07Z,Alpha-1,52.994935,-1.131185,One T2 casualty — shrapnel wound to left leg. Stable but needs evac.,HIGH,MEDICAL
+2024-02-27T00:50:09Z,Falcon-4,52.924677,-1.298678,صيانة مطلوبة للمركبة الثانية,MEDIUM,LOGISTICS
+2024-02-27T00:50:10Z,Charlie-3,53.032056,-1.274951,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:50:25Z,Eagle-5,52.896384,-1.208212,Troops in contact! Grid reference 6790 1330. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:50:27Z,Eagle-2,52.934225,-1.295938,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:50:28Z,Bravo-6,52.985343,-1.162133,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:50:29Z,Falcon-2,52.948683,-1.278746,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:50:35Z,Alpha-4,52.883143,-1.115899,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:50:42Z,Falcon-5,52.959729,-1.213662,رصد تحركات مشبوهة في القطاع ٤,HIGH,LOGISTICS
+2024-02-27T00:50:43Z,Eagle-2,53.023735,-1.156992,Local nationals report unusual activity.,MEDIUM,INTEL
+2024-02-27T00:50:44Z,Charlie-4,52.863832,-1.176466,HUMINT source reports weapons cache at grid 5111 8860.,HIGH,INTEL
+2024-02-27T00:50:50Z,Charlie-4,52.95258,-1.208931,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:50:57Z,Alpha-6,52.932061,-1.232707,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:50:59Z,Bravo-2,52.94949,-1.277652,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:51:02Z,Falcon-5,52.859018,-1.107001,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:51:08Z,Falcon-5,52.995461,-1.133034,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:51:11Z,Alpha-4,52.943055,-1.109747,Mail delivery received.,LOW,MEDICAL
+2024-02-27T00:51:17Z,Eagle-6,52.924297,-1.26804,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:51:21Z,Falcon-3,52.918103,-1.28485,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:51:25Z,Charlie-6,52.901611,-1.167204,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:51:28Z,Bravo-1,52.870922,-1.191601,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:51:30Z,Alpha-3,52.972573,-1.219499,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:51:31Z,Bravo-6,52.965715,-1.268737,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:51:35Z,Falcon-3,53.00663,-1.286453,فحص الاتصالات. الإشارة واضحة,LOW,ROUTINE
+2024-02-27T00:51:36Z,Falcon-1,52.973453,-1.255232,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:51:37Z,Eagle-5,52.902029,-1.209227,Position check: holding at grid 4719 2203.,MEDIUM,ROUTINE
+2024-02-27T00:51:38Z,Bravo-6,52.883212,-1.104699,Movement detected in treeline. Probable enemy OP.,HIGH,CONTACT
+2024-02-27T00:51:38Z,Falcon-4,52.944309,-1.152618,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,INTEL
+2024-02-27T00:51:41Z,Charlie-6,52.942688,-1.161056,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:51:43Z,Falcon-6,52.974005,-1.237161,Request water resupply at grid 5701 7218.,MEDIUM,LOGISTICS
+2024-02-27T00:51:43Z,Alpha-4,52.876949,-1.27839,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:51:48Z,Eagle-3,52.911948,-1.288229,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:51:53Z,Eagle-1,52.874785,-1.226019,فحص الاتصالات. الإشارة واضحة,LOW,MEDICAL
+2024-02-27T00:51:54Z,Bravo-2,52.875757,-1.206218,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:51:54Z,Eagle-4,53.034192,-1.107318,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:51:57Z,Falcon-6,53.0262,-1.248882,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:51:58Z,Bravo-1,52.870606,-1.113579,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:52:02Z,Charlie-5,52.969196,-1.237033,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:52:09Z,Eagle-2,52.993871,-1.166182,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:52:09Z,Alpha-2,52.986712,-1.239119,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:52:12Z,Eagle-6,52.967524,-1.198711,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:52:17Z,Charlie-1,52.889923,-1.13266,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:52:24Z,Falcon-5,52.929997,-1.286709,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:52:25Z,Alpha-2,52.989254,-1.176031,Troops in contact! Grid reference 2309 8306. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:52:28Z,Alpha-1,53.017491,-1.159818,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:52:36Z,Bravo-6,52.871371,-1.128595,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:52:37Z,Alpha-5,53.023626,-1.258443,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:52:38Z,Charlie-1,52.907487,-1.111129,"Man down! Arterial bleed, applying tourniquet. Need extraction ASAP!",CRITICAL,MEDICAL
+2024-02-27T00:52:38Z,Alpha-6,53.016376,-1.119142,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:52:40Z,Alpha-5,52.945053,-1.172293,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:52:47Z,Bravo-3,53.011238,-1.103324,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:52:57Z,Alpha-5,52.9104,-1.233387,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:53:04Z,Eagle-1,53.013087,-1.150827,Pinned down by sniper fire. Cannot advance. Request suppressive fire.,CRITICAL,CONTACT
+2024-02-27T00:53:05Z,Eagle-6,52.917084,-1.116516,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:53:06Z,Alpha-6,52.939364,-1.255687,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:53:06Z,Charlie-3,53.030172,-1.190709,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:53:07Z,Falcon-6,52.8955,-1.144223,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:53:11Z,Bravo-2,52.904684,-1.256175,UAV feed shows vehicle tracks.,MEDIUM,INTEL
+2024-02-27T00:53:20Z,Eagle-1,52.898946,-1.1096,"Requesting emergency resupply: ammo, water, batteries.",HIGH,LOGISTICS
+2024-02-27T00:53:23Z,Eagle-2,53.031278,-1.277733,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:53:27Z,Eagle-3,53.025655,-1.155703,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:53:38Z,Eagle-1,53.032734,-1.192206,Drone overhead. Possible hostile reconnaissance.,HIGH,CONTACT
+2024-02-27T00:53:46Z,Eagle-6,52.991392,-1.219161,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:53:46Z,Alpha-4,53.038265,-1.233011,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:53:49Z,Bravo-4,52.946655,-1.139409,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:53:50Z,Eagle-4,52.855657,-1.149169,Troops in contact! Grid reference 2422 5767. Requesting QRF!,CRITICAL,CONTACT
+2024-02-27T00:53:50Z,Alpha-5,52.9882,-1.183255,Request water resupply at grid 5015 3308.,MEDIUM,LOGISTICS
+2024-02-27T00:53:50Z,Bravo-2,52.926911,-1.165166,Taking fire from multiple positions! Request immediate CAS!,CRITICAL,CONTACT
+2024-02-27T00:53:56Z,Eagle-2,52.957045,-1.228873,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:53:56Z,Bravo-5,52.952867,-1.13564,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:54:23Z,Falcon-2,52.932382,-1.178593,صيانة مطلوبة للمركبة الثانية,MEDIUM,ROUTINE
+2024-02-27T00:54:24Z,Bravo-1,52.984098,-1.197107,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:54:27Z,Charlie-2,52.95549,-1.127299,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:54:28Z,Alpha-1,52.967213,-1.256252,Intercepted comms indicate imminent attack on FOB. All units alert!,CRITICAL,INTEL
+2024-02-27T00:54:28Z,Falcon-2,52.964842,-1.161427,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:54:37Z,Eagle-5,52.856368,-1.297745,دورية روتينية، المنطقة آمنة,LOW,ROUTINE
+2024-02-27T00:54:37Z,Eagle-2,52.94441,-1.116543,كمين! اشتباك من الجهة الشمالية!,CRITICAL,CONTACT
+2024-02-27T00:54:43Z,Eagle-3,52.97152,-1.152147,HVT positively identified at grid 5245 1079. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:54:44Z,Bravo-4,52.878392,-1.180287,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:54:45Z,Alpha-5,52.860963,-1.190343,Weather update- sandstorm expected.,MEDIUM,ROUTINE
+2024-02-27T00:54:46Z,Alpha-3,52.943495,-1.225054,"Mass casualty event! IED blast, 5 wounded, 2 critical. Need MEDEVAC!",CRITICAL,MEDICAL
+2024-02-27T00:54:49Z,Bravo-3,52.941542,-1.28117,Shift rotation complete.,MEDIUM,ROUTINE
+2024-02-27T00:54:58Z,Alpha-6,53.000413,-1.191634,Vehicle maintenance required. Engine overheating.,MEDIUM,LOGISTICS
+2024-02-27T00:55:02Z,Eagle-2,52.906881,-1.177188,دورية روتينية، المنطقة آمنة,LOW,LOGISTICS
+2024-02-27T00:55:03Z,Charlie-4,52.861854,-1.2248,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:55:04Z,Alpha-1,52.993713,-1.231178,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:55:04Z,Eagle-2,52.879265,-1.149375,HVT positively identified at grid 5807 9539. Awaiting strike authority.,CRITICAL,INTEL
+2024-02-27T00:55:04Z,Charlie-3,52.919704,-1.164948,Unidentified personnel observed crossing border at dawn.,HIGH,INTEL
+2024-02-27T00:55:09Z,Charlie-5,52.927261,-1.169089,Requesting medical resupply: bandages and morphine,MEDIUM,MEDICAL
+2024-02-27T00:55:13Z,Eagle-5,52.880123,-1.250111,Heavy contact at checkpoint. Perimeter breached! NEED BACKUP NOW!,CRITICAL,CONTACT
+2024-02-27T00:55:15Z,Bravo-3,52.864061,-1.129791,Position check: holding at grid 5761 3961.,MEDIUM,ROUTINE
+2024-02-27T00:55:17Z,Bravo-3,52.851413,-1.123991,Requesting orders. New intel suggests target has relocated.,HIGH,INTEL
+2024-02-27T00:55:17Z,Charlie-1,52.8971,-1.209642,Radio check. Lima Charlie. Over.,LOW,ROUTINE
+2024-02-27T00:55:25Z,Falcon-3,53.02276,-1.230587,All clear. No activity to report.,LOW,ROUTINE
+2024-02-27T00:55:27Z,Falcon-3,52.868559,-1.224959,"Ambush! Contact north-east, at least 12 hostiles with RPGs!",CRITICAL,CONTACT
+2024-02-27T00:55:29Z,Eagle-1,52.874261,-1.245789,Request water resupply at grid 3681 1238.,MEDIUM,LOGISTICS
+2024-02-27T00:55:36Z,Alpha-1,52.984756,-1.166674,Position check: holding at grid 2222 1138.,MEDIUM,ROUTINE
+2024-02-27T00:55:42Z,Alpha-6,52.889462,-1.113375,IED detonated on convoy route. Vehicle disabled. Under fire!,CRITICAL,CONTACT
+2024-02-27T00:55:49Z,Falcon-6,52.869003,-1.254579,نحتاج إلى إعادة تزويد بالوقود,MEDIUM,MEDICAL
+2024-02-27T00:55:51Z,Charlie-6,52.931313,-1.128645,Heard distant gunfire to the south. Not in our AO. Monitoring.,MEDIUM,CONTACT
+2024-02-27T00:55:51Z,Falcon-2,53.02561,-1.259374,"Enemy spotted, 800m south-west.  squad-sized element.",HIGH,CONTACT
+2024-02-27T00:55:51Z,Alpha-5,53.007535,-1.211328,Position check: holding at grid 7432 8577.,MEDIUM,ROUTINE
+2024-02-27T00:56:01Z,Charlie-1,53.039668,-1.293601,Request water resupply at grid 2542 4943.,MEDIUM,LOGISTICS
+2024-02-27T00:56:05Z,Falcon-3,52.98102,-1.144337,Routine patrol complete. Sector clear. RTB.,LOW,ROUTINE
+2024-02-27T00:56:14Z,Bravo-6,52.921348,-1.240559,Suspicious movement in Sector 4. Possible staging area.,HIGH,INTEL
+2024-02-27T00:56:16Z,Falcon-6,52.938173,-1.233882,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:56:18Z,Charlie-3,52.901742,-1.106045,Resupply needed: MREs for 30 personnel.,MEDIUM,LOGISTICS
+2024-02-27T00:56:20Z,Eagle-2,52.938453,-1.147959,Mail delivery received.,LOW,LOGISTICS
+2024-02-27T00:56:25Z,Falcon-3,52.956028,-1.220855,Heat casualty. Soldier unconscious. IV fluids administered.,HIGH,MEDICAL
