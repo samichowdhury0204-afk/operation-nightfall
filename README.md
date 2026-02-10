@@ -75,4 +75,4 @@ CRITICAL alerts will appear in Terminal 1 as messages are processed.
 | LOW | 25% | Routine administrative messages |
 
 ## License
-no license needed. 
+no license needed. `
