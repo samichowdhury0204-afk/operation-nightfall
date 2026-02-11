@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ### 2. Generate Training & Streaming Data
 ```bash
-python3 data_generator.py
+python data_generator.py
 ```
 Generates 50,000 training records and 100,000 streaming records
 
@@ -36,7 +36,7 @@ Generates 50,000 training records and 100,000 streaming records
 ```bash
 sbt "runMain TrainClassifier"
 ```
-Trains a Random Forest model and saves it to `models/priority_classifier`.
+Trains a Random Forest model and should save it to `models/priority_classifier`.
 
 ### 4. Run the Streaming Pipeline
 
@@ -52,6 +52,8 @@ sbt "runMain StreamingProcessor"
 ```bash
 python3 stream_simulator.py
 ```
+
+NOTE: YOU MAY NEED TO ADD 'cd/workspaces/...etc (project location) &&' to the beginning of the above prompts to work. 
 
 CRITICAL alerts will appear in Terminal 1 as messages are processed.
 
