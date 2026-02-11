@@ -40,7 +40,7 @@ Trains a Random Forest model and saves it to `models/priority_classifier`.
 
 ### 4. Run the Streaming Pipeline
 
-You need to have two terminals running because we're executing two scripts.
+You need to have two terminals running as  we're executing two scripts.
 
 **Terminal 1** - Start the processor:
 ```bash
@@ -54,16 +54,6 @@ python3 stream_simulator.py
 ```
 
 CRITICAL alerts will appear in Terminal 1 as messages are processed.
-
-## Project Structure
-
-├── data_generator.py       # Generates synthetic military communications
-├── stream_simulator.py     # Simulates real-time message arrival
-├── src/main/scala/
-│   ├── TrainClassifier.scala      # ML model training
-│   └── StreamingProcessor.scala   # Real-time classification & alerts
-├── build.sbt               # Scala/Spark dependencies
-└── requirements.txt        # Python dependencies
 
 ## Priority Levels
 
