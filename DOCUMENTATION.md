@@ -1,8 +1,8 @@
- variability. # Operation Nightfall - Documentation
+# Operation Nightfall - Documentation
 
 ## Project Description
 
-Operation Nightfall is a real-time military communications processing pipeline which classifies live incoming comms by priority level and surfaces alerts classified as 'Critical' immediately to a military control room. The system simulates a UK-Saudi coalition operations and identifies urgent situations requiring immediate response (eg: mass casualty events, IED detonations). The pipeline consists of four components:
+Operation Nightfall is a real-time military communications processing pipeline which classifies live incoming comms by priority level and surfaces alerts classified as 'Critical' immediately to a military control room. The system simulates UK-Saudi coalition operations and identifies urgent situations requiring immediate response (eg: mass casualty events, IED detonations). The pipeline consists of four components:
 
 - **Data generation (python)** - 50,000 labelled training records and 100,000 unlabelled streaming records simulating realistic military communications with timestamps, GPS coordinates, unit identifiers, and most importantly message content.
 - **Model training (Scala / Spark MLlib)** - Here resides a complete NLP pipeline using Tokeniser, StopWordsRemover, HashingTF and IDF for feature extraction, which feeds into a random forest classifier that achieves an 84% accuracy on priority classification.
